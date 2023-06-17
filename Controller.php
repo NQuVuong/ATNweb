@@ -23,7 +23,7 @@ include_once ("header.php");
                     <div class="col-md-4 pb-3">
                         <div class="card">
                             <img
-                            src="../simpleweb/images/<?=$r['image']?>"
+                            src="./images/<?=$r['image']?>"
                             class="card-img-top"
                             alt="Product1>" style="margin: auto;
                             width: 300px; height: 250px"

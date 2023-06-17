@@ -17,7 +17,7 @@ include_once 'header.php';
     <h2 style="color:white"><?=$re['pname']?></h2>
     <div style="display:flex">
         <div>
-            <img src="../simpleweb/images/<?=$re['image']?>" style="width:90%">
+            <img src="./images/<?=$re['image']?>" style="width:90%">
         </div>
     <ul style="list-style-type: none; color:white;" class="list-group">
         Price: <li class="list-group-item" ><?=$re['price']?></li>

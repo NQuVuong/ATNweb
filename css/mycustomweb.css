@@ -1,0 +1,39 @@
+body{
+    background-color: #171616 !important;
+}
+.search{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.category{
+    color: white;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+.browse{
+    color: white;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+.news{
+    color: white;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+.cart{
+    color: white;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+.order{
+    color: white;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+

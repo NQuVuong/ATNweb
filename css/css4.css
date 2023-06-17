@@ -1,0 +1,71 @@
+body
+    {
+        margin: 0;
+        padding: 0;
+        background-color:#3a3b3c ;
+    }
+nav#topmenu ul
+    {
+            list-style: none;
+            background-color: #cadbfa;
+            text-align:center;
+            margin:0;
+    }
+nav#topmenu li
+{
+
+    font-size: 24px;
+    line-height: 40px;
+    height: 40px;
+    display: inline-block;
+    /*inline-flex  block*/
+    padding:20px;
+}
+nav#topmenu a
+{
+    text-decoration: none;
+    color:black;
+}
+section
+{
+    margin-left: 20px;
+    color: #fdfeff;
+}
+h1
+{
+    font-size: 30px;
+}
+header > p
+{
+    font-style: italic;
+}
+article > p
+{
+    font-size: 25px;
+}
+footer
+{
+    text-align: center;
+    background-color: rgb(21, 113, 76);
+    color: #fdfeff;
+}
+.tbl th, .tbl td
+{
+    border: 1px solid #fdfeff;
+}
+.tbl
+{
+    border-collapse:collapse;
+}
+.tbl .result
+{
+    text-align: right;
+    font-weight: bold;
+    color: 12px;
+}
+.sec-tbl
+{
+    margin: auto;
+    width: fit-content;
+    padding: 12px;
+}

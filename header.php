@@ -44,7 +44,7 @@ ob_start();
                 <a class="nav-link" href="Empty.php">HELP</a>
                 <a class="nav-link" href="Empty.php">About us</a>
             </div>
-            <div class="navbar-nav ms-auto"> 
+            <div class="navbar-nav ms-auto" style="width:20%"> 
                 <div class="dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
                     <?php
